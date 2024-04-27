@@ -1,0 +1,205 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Audio
+  m_EditorClassIdentifier: 
+  m_GroupName: Audio
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 5fa294e4c9566e948aeb6d611840950a
+  m_SerializeEntries:
+  - m_GUID: 4f38d89eaceffeb4a9e8aed1e969cc11
+    m_Address: Audio/AMB_Aquarium.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bef203b1219df064ca811e94b672b538
+    m_Address: Audio/AMB_SeaWaves01.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: accc63ff69f3b36428af55cf1f4bf054
+    m_Address: Audio/AMB_Thunder01.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d19853881e569e54987cde10b4e5be3f
+    m_Address: Audio/AMB_Thunder02.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e76e7c83d76842c47837036816cf3744
+    m_Address: Audio/BGM_Alaska01.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6926e527b6b8ecb43ac6c1d8ddf5a303
+    m_Address: Audio/BGM_Battle01.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cdc51cc04e99b1544bc120e041982cd6
+    m_Address: Audio/BGM_Caribbean01.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d55a87f523b2d2d4db2a6a2e76d035f7
+    m_Address: Audio/BGM_Hawaii01.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 27990b1965638984f98ec4d66c6f5550
+    m_Address: Audio/Button_AwardCoin.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9a419fc44aeb8dd499b63216d685bea6
+    m_Address: Audio/Button_AwardCoinBanner.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 06e4fa095dbf80240991bc44429adf66
+    m_Address: Audio/Button_AwardDiamond.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 65f84e9b73b87714e83631bbc2f68f4a
+    m_Address: Audio/Button_AwardDiamondBanner.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 76dca7cdd9667844689f651226cd6f68
+    m_Address: Audio/Button_BoxClick.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 97a17ded63d3e994f926532b4d0e0d5b
+    m_Address: Audio/Button_Bubble.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7f09f8d1ac281e74bb68fd8f3fcb67e6
+    m_Address: Audio/Button_Click01.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5c6de7f3b3849c54e9ffb8cfd7ad9c7f
+    m_Address: Audio/Button_Click02.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2dbc14a92008f374695b5a29ee5dbce4
+    m_Address: Audio/Button_ClickCoin01.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8bff23c8794045e49a060773055d0f10
+    m_Address: Audio/Button_CutToAquarium.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 268209e5a8c8efc4082a8e504a0d2186
+    m_Address: Audio/Button_CutToBubble.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bb4e7e34c31171e4ea3bbd10fa8c2b56
+    m_Address: Audio/Button_CutToSea.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c1e9ac89cc4a2fe468016db62db087e1
+    m_Address: Audio/Button_Draw.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 44709f1e776925e4e808fc9c1cbb8600
+    m_Address: Audio/Button_Evolution.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ccb4f67736744fa4e90866740abaf6fd
+    m_Address: Audio/Button_Grid.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 077c3ef0330b48b44b706c5ba1b8399b
+    m_Address: Audio/Button_Grow.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9fba25b17f26f774ba101a5fc811a5b5
+    m_Address: Audio/Button_Level.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a9d997ce5420de6448a343241d88fadc
+    m_Address: Audio/Button_PopUp.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3ad907101673fcd459d193d642592c5c
+    m_Address: Audio/Button_PutIn.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 81c5a0460bc715f45b15069c63787bc3
+    m_Address: Audio/Button_Unlock.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1511e1e0788ccd4428acab0374485706
+    m_Address: Audio/Sfx_CastButton.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 108b5025ead8db7499f086fa5ec8909b
+    m_Address: Audio/Sfx_CastWinder.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ac2c375b8cc0c8f42b27f011816de7a4
+    m_Address: Audio/Sfx_DecideWindow.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0e0e18412f983e340854fbada9c22bd9
+    m_Address: Audio/Sfx_FallIntoWater.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d27f8aa4934e5784f859b4fea787bb4a
+    m_Address: Audio/Sfx_FishFallIntoWater.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2e07caa3a96b6214cb8de940bcab3b7b
+    m_Address: Audio/Sfx_FishJump.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 318169562f12e01468df4cefc4165434
+    m_Address: Audio/Sfx_FishStruggle.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6f63d00e4d8f03b44a90c9204d9cc649
+    m_Address: Audio/Sfx_FishSurfing.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8ea42f32a234bb34eba00927608c88b7
+    m_Address: Audio/Sfx_GetHooked.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dd1421d9256f5b8409fa1b860db19e54
+    m_Address: Audio/Sfx_LinePull01.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e8ef79d88a27b0c42a095623964623b5
+    m_Address: Audio/Sfx_LinePull02.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a53e0f6f1907af84aa5461dec07df38f
+    m_Address: Audio/Sfx_Slide.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a8c67dc2aad88f94f9d226c29b0a740b
+    m_Address: Audio/Sfx_SlideHit.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 39841a87241a0404a878410f09e80bcb
+    m_Address: Audio/Sfx_Winder01.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a576b1cac4ab6724484622a54b967dbd
+    m_Address: Audio/Sfx_Winder02.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d6c4449398351bd45851b61e1e655ede
+    m_Address: Audio/AudioMixer.mixer
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 71c49844ec14a7148b112779147255d1
+    m_Address: Audio/Sfx_FishPullUp.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 4af7547d536484e4f99eb62750de4ff3, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 14c55e39320d3524fbcbfb9893b5c0d4, type: 2}
+    - {fileID: 11400000, guid: f45b2af649b39ca4996297b0a8b4c0af, type: 2}

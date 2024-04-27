@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: HelpObj
+  m_EditorClassIdentifier: 
+  m_GroupName: HelpObj
+  m_Data:
+    m_SerializedData: []
+  m_GUID: b700fb04bfe17844f9dd27be3c26204d
+  m_SerializeEntries:
+  - m_GUID: dd4cbb2698b1a694aae30b62a9270fc0
+    m_Address: Prefabs/FishHelp/Box_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c74898576c1dfe846a375f938077c176
+    m_Address: Prefabs/FishHelp/Rod@skin.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9e19e38d9bfec8344beffe72cc75a04a
+    m_Address: Prefabs/FishHelp/RodStartObj.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 4af7547d536484e4f99eb62750de4ff3, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 2e2cb9a7e01aa5c4598df74c785ed7fd, type: 2}
+    - {fileID: 11400000, guid: f1109aa4635df8c41b5bcc2bf9ba2df0, type: 2}

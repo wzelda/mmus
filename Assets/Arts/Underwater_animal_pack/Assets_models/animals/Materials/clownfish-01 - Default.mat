@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: clownfish-01 - Default
+  m_Shader: {fileID: 4800000, guid: f3318405580b32e4db67fc1c3293f7de, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: 2138353fd8cb03a4ca528165fa787a06, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CausticTex:
+        m_Texture: {fileID: 2800000, guid: 8e84949c077024a94a7f50a403373768, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CubeMap:
+        m_Texture: {fileID: 8900000, guid: f0f5cda4fb0797f4d96a3b8716a098b4, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 6538fb3197f4a534cb71a2bb167bde63, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 2800000, guid: 7c39a66766e2ebd4d9d32eb823e61e85, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AmbientSwitch: 0
+    - _CausticsScale: 1
+    - _CausticsSelfDistortion: 0.2
+    - _CausticsSpeed: 3
+    - _CausticsTiling: 0.36
+    - _CubePower: 0.139
+    - _Fresnel: 2.43
+    - _Fresnel_Power: 0.79
+    - _Shininess: 0.078125
+    - _SpecScla: 1.02
+    - _specPow: 0.6
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _FresnelCol: {r: 0, g: 0.28627443, b: 1, a: 1}
+    - _SpecColor: {r: 0.8134328, g: 0.8134328, b: 0.8134328, a: 1}
+    - _TineCol: {r: 1, g: 1, b: 1, a: 1}
+    - _specCol: {r: 1, g: 0.98784935, b: 0.8066038, a: 1}
+--- !u!1002 &2100001
+EditorExtensionImpl:
+  serializedVersion: 6

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FishSwiming_Area_Caribbean01_Fish10_2
+  m_Controller: {fileID: 9100000, guid: 8c39c9381f59195439a3c1c227a291e1, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: 1febc4318d45c174687cf639b72be974,
+      type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: b2a2d250d9d83a549b14d3551827421e,
+      type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: 9125a8a3450a7c9419fef19191c3495c,
+      type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: dfdbe5dd6181fe74a894a8e00e95d75c,
+      type: 3}

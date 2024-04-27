@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Shared
+  m_EditorClassIdentifier: 
+  m_GroupName: Shared
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 51cfd87650dc5a74f9b891cbcd10954c
+  m_SerializeEntries:
+  - m_GUID: 83d56f5773ac98345aa2793ea8b5ee80
+    m_Address: Assets/Arts/Shaders/caustic.shadergraph
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: -6465566751694194690, guid: 83d56f5773ac98345aa2793ea8b5ee80,
+      type: 3}
+    m_TargetAsset: {fileID: -6465566751694194690, guid: 83d56f5773ac98345aa2793ea8b5ee80,
+      type: 3}
+  - m_GUID: aa402d5222bd0e144963ed7f49690d11
+    m_Address: Assets/Arts/Shaders/Ulit_NoFog.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 1814d2b1e5a93ad4bbdde028226e811a
+    m_Address: Assets/Arts/Textures/Caustic1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 1814d2b1e5a93ad4bbdde028226e811a, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 1814d2b1e5a93ad4bbdde028226e811a, type: 3}
+  - m_GUID: 40615c805d6e84ce7800418367985fe1
+    m_Address: Packages/com.verasl.water-system/Scripts/Data/WaterResources.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9d84ec0487468b644b752f0157a52268
+    m_Address: Assets/Arts/Shaders/YB.shadergraph
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ee9303df44a7ddc429a42802adb3b8bf
+    m_Address: Assets/Arts/Shaders/Particle_AlphaBlend.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 3904d574164d16d439cd923ba8081d4c
+    m_Address: Assets/Arts/Particles/Shaders/Particle_Add.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 4800000, guid: 3904d574164d16d439cd923ba8081d4c, type: 3}
+    m_TargetAsset: {fileID: 4800000, guid: 3904d574164d16d439cd923ba8081d4c, type: 3}
+  - m_GUID: 7e6ea000873112847bd146ddb78ac67d
+    m_Address: Packages/com.verasl.water-system/Materials/Caustics.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e715cc43c11ade041a6e2c20da43db3d
+    m_Address: Assets/Arts/Textures/Noise.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: e715cc43c11ade041a6e2c20da43db3d, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: e715cc43c11ade041a6e2c20da43db3d, type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 4af7547d536484e4f99eb62750de4ff3, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 69baa6dd68a77634b86c1d23cced7c46, type: 2}
+    - {fileID: 11400000, guid: e830b23fffff06b4d97f95e74ce7a98a, type: 2}

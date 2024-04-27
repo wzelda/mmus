@@ -1,0 +1,13 @@
+
+<linker>
+	<assembly fullname="LightGameSDK">
+	    <type fullname="LightGameFactory" preserve="all"/>
+		<type fullname="ByteDance.Union.LGLogManager" preserve="all"/>
+	</assembly>
+  	<assembly fullname="Assembly-CSharp">
+	    <type fullname="FishBehavior.FreeSwimAction" preserve="all"/>
+		<namespace fullname="BehaviorDesigner.Runtime" preserve="all"/>
+	</assembly>
+	<assembly fullname="BehaviorDesigner.Runtime" preserve="all">
+	</assembly>
+</linker>

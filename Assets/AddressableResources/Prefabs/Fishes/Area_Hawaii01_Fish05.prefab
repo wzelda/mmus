@@ -1,0 +1,173 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!95 &252263853164470929
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5929152101037038288}
+  m_Enabled: 1
+  m_Avatar: {fileID: 9000000, guid: 2b9185aca58e1ad4484bf87f9ad201fd, type: 3}
+  m_Controller: {fileID: 9100000, guid: a1f4ff8af49eb08498bb84eec4e8d3f1, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!1 &7190254882725313206
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7646812391299322584}
+  m_Layer: 0
+  m_Name: Area_Hawaii01_Fish05
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7646812391299322584
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7190254882725313206}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 6414045888332857450}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!136 &6503035516064886016
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8961156136743930476}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.1
+  m_Height: 0.4
+  m_Direction: 1
+  m_Center: {x: -0.000000019993685, y: -0.0020556897, z: 0.18585643}
+--- !u!1001 &6812254903417694081
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7646812391299322584}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: b127685a121131a4aa340a64e905522f,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b127685a121131a4aa340a64e905522f,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.1148
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b127685a121131a4aa340a64e905522f,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b127685a121131a4aa340a64e905522f,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b127685a121131a4aa340a64e905522f,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b127685a121131a4aa340a64e905522f,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b127685a121131a4aa340a64e905522f,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b127685a121131a4aa340a64e905522f,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b127685a121131a4aa340a64e905522f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b127685a121131a4aa340a64e905522f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b127685a121131a4aa340a64e905522f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 194253190827066917, guid: b127685a121131a4aa340a64e905522f,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7958a23a631c1364091e4dc84203c4f9, type: 2}
+    - target: {fileID: 919132149155446097, guid: b127685a121131a4aa340a64e905522f,
+        type: 3}
+      propertyPath: m_Name
+      value: Area_Hawaii01_Fish05
+      objectReference: {fileID: 0}
+    - target: {fileID: 5557916445031346178, guid: b127685a121131a4aa340a64e905522f,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.0000000015909148
+      objectReference: {fileID: 0}
+    - target: {fileID: 5557916445031346178, guid: b127685a121131a4aa340a64e905522f,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.0623
+      objectReference: {fileID: 0}
+    - target: {fileID: 5557916445031346178, guid: b127685a121131a4aa340a64e905522f,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.02
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b127685a121131a4aa340a64e905522f, type: 3}
+--- !u!1 &5929152101037038288 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: b127685a121131a4aa340a64e905522f,
+    type: 3}
+  m_PrefabInstance: {fileID: 6812254903417694081}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &6414045888332857450 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: b127685a121131a4aa340a64e905522f,
+    type: 3}
+  m_PrefabInstance: {fileID: 6812254903417694081}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &8961156136743930476 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2510072598984977901, guid: b127685a121131a4aa340a64e905522f,
+    type: 3}
+  m_PrefabInstance: {fileID: 6812254903417694081}
+  m_PrefabAsset: {fileID: 0}

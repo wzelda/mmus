@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Animation
+  m_EditorClassIdentifier: 
+  m_GroupName: Animation
+  m_Data:
+    m_SerializedData: []
+  m_GUID: a5889ee4be8bfa7448205f9165abd12c
+  m_SerializeEntries:
+  - m_GUID: 3d8ba75c4987f8b4d9ca401bfa85f78d
+    m_Address: Animations/FishAnimator Controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8fc3868279d73cd47bb1c0f75890d9a1
+    m_Address: Animations/A_C_Fish10_2_AnimatorController
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 48a57b1fac6e34049a72e17518e3e833
+    m_Address: Animations/Root_Area_Alaska01_Fish10_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b61c88f2e79fc7c4998ab90781381a6e
+    m_Address: Animations/Root_Ship_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5021430b1811bb6499ac2e951984f41a
+    m_Address: Assets/AddressableResources/Animations/Ship_02.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a049092b92d863047b5e2b13b766ffa5
+    m_Address: Assets/AddressableResources/Animations/Alaska_Scene_Animation_Timeline.playable
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 73ab0167062f878448cc283e29aea57a
+    m_Address: Animations/Area_Caribbean01_Fish07 Controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 05dd7485a95f08945b2c54e8f2fc14ee
+    m_Address: Assets/AddressableResources/Animations/Beach_Peoplie.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3a8d506ab8a3d8849816a14dbc1d4b4b
+    m_Address: Assets/AddressableResources/Animations/Beach_Ship.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 57f443ee007a5a542866747e03005ada
+    m_Address: Assets/AddressableResources/Animations/Caribbean_Scene_Animation_Timeline.playable
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 91b8eb83d2f3e024a867ae16e38469e5
+    m_Address: Animations/FishSwiming_Area_Caribbean01_Fish10_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d1e7f1672dec45645931858d37739f9f
+    m_Address: Animations/FishSwiming_Area_Hawaii01_Fish02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8c39c9381f59195439a3c1c227a291e1
+    m_Address: Animations/FishSwiming_Common
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5bbdc98eb7763bf448ff07c951b96ae1
+    m_Address: Assets/AddressableResources/Animations/KillerWhalesSwim.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fdaa6ffcd50ce8e4da3b35eed7b50038
+    m_Address: Animations/Root_Area_Alaska01_Fish10_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9a078c9a45684a74793b21cb334a3235
+    m_Address: Animations/Root_Ship_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6bee0429cb10f854bb000c446cda2e52
+    m_Address: Animations/Scen_Beach_Peoplie
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bc69b2ba15be15c4b823fd169fffa718
+    m_Address: Animations/Scen_Beach_Ship
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 58e15e989fff0a84da00c484138e2a11
+    m_Address: Assets/AddressableResources/Animations/Ship_01.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a1f4ff8af49eb08498bb84eec4e8d3f1
+    m_Address: Animations/SmallFishAnimator Controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d872b5bd16605744da145d615258f1c2
+    m_Address: Animations/yulaihuitiaoyue
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f90667dfb76a4d242819cbcf247296ff
+    m_Address: Assets/AddressableResources/Animations/yulaihuitiaoyueTimeline.playable
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 4af7547d536484e4f99eb62750de4ff3, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: fa4d363788e28204f8a29d21d65075c2, type: 2}
+    - {fileID: 11400000, guid: 92b629d886cffae45b1bbc2e3f2ea138, type: 2}

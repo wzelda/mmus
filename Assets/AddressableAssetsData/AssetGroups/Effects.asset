@@ -1,0 +1,253 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Effects
+  m_EditorClassIdentifier: 
+  m_GroupName: Effects
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 4a3d611557c65b74fa2285535a9e03e5
+  m_SerializeEntries:
+  - m_GUID: 7cb85d8acb63e8040bc3fcf66c12f756
+    m_Address: Prefabs/Particle/Effect_diaoyushuibo.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6be6424862ee8504ea52d66033d06da9
+    m_Address: Prefabs/Particle/Eff_sce_shengji.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 95b1012ffe88a06409fa53080cd97e9b
+    m_Address: Prefabs/Particle/waibao/Eff_Aquarium_Born_bubble.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f90d7865fb350814693712072be53360
+    m_Address: Prefabs/Particle/waibao/UI/EFF_UI_anniukuosan.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b032c0063337fc649908eac18aca77a7
+    m_Address: Prefabs/Particle/waibao/UI/Eff_UI_anniukuosanchixu.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d508886464629384085fcb32bbd8189c
+    m_Address: Prefabs/Particle/waibao/UI/Eff_UI_anniukuosandanci.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c96d9f0fc5bb42b41951530d4fa8bac2
+    m_Address: Prefabs/Particle/waibao/UI/Eff_UI_dianji.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2996cdbbed0e4a54c92eccbc7a26d210
+    m_Address: Prefabs/Particle/waibao/UI/EFF_UI_faxianguangxiao.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b091e2f12c2fc3c419e0d3da01357cc6
+    m_Address: Prefabs/Particle/waibao/UI/Eff_UI_jiesuokuosan.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 87e9aebc57e33104fb8f8eb0e0e136f3
+    m_Address: Prefabs/Particle/waibao/UI/EFF_UI_jinbidiaoluo.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4e96a0b64ad85bf4099f84b37b3c2e25
+    m_Address: Prefabs/Particle/waibao/UI/EFF_UI_jinbishanguang.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 96ae3361e255c984f99b3c5790f6cf19
+    m_Address: Prefabs/Particle/waibao/UI/EFF_UI_jinbishouji.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2575b45677a8c344784ce1810808f897
+    m_Address: Prefabs/Particle/waibao/UI/EFF_UI_nengliangtiao.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4e1277e15429ce246ba587296e88e41c
+    m_Address: Prefabs/Particle/waibao/UI/EFF_UI_shengjieguangxiao.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b94a059c3f7bc564e9b9184c2fea86bd
+    m_Address: Prefabs/Particle/waibao/UI/Eff_UI_zuanshishouji.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3eb59efb623c8f14f9032a2aff76aab7
+    m_Address: Prefabs/Particle/waibao/XY/Eff_Aquarium_baoxianglianyi.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bb871451671fd05438b34818140e2e0c
+    m_Address: Prefabs/Particle/waibao/XY/Eff_Aquarium_weiyu.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c84e96da88c703844996fa4cfc2a3845
+    m_Address: Prefabs/Particle/waibao/XY/Eff_Fishing_xunhuanlianyi.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b8390837263749d43acb40ab74c3eb0c
+    m_Address: Prefabs/Particle/wq/Eff_ui_fuli_tili.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7c165ed547ab3554c8e502bb5d7fba59
+    m_Address: Prefabs/Particle/waibao/UI/c.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1920834634bc52d4d99ecc2c71f867cb
+    m_Address: Prefabs/Particle/waibao/UI/Eff_UI_tishi.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c3c8e38996ab81c48888c90b3079b81f
+    m_Address: Prefabs/Particle/waibao/UI/Eff_UI_6biankuosankuang.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0edb698e9ced46247ac89e1a56a3fd63
+    m_Address: Prefabs/Particle/waibao/UI/Eff_UI_bulaoshouhuo.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8df7d838708fe024884655d4940f0600
+    m_Address: Prefabs/Particle/waibao/UI/Eff_UI_kuosankuanghuang.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 36333e9396b00a241a1fa715e5454ad6
+    m_Address: Prefabs/Particle/waibao/UI/Eff_UI_kuosankuanglan.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e7fdf2c46d4f80e49b927e00e096e3ec
+    m_Address: Prefabs/Particle/waibao/UI/EFF_UI_nengliangtiao2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 11442bf6c7609af4898dd39a1197700a
+    m_Address: Prefabs/Particle/waibao/UI/Eff_UI_tixingkuosankuang.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a92351f393120ea4aa0b48ec89c17b06
+    m_Address: Prefabs/Particle/waibao/XY/Eff_Fishing_dayushuihua.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 01a7ddf5580696d4ab4a2012dbb54be6
+    m_Address: Prefabs/Particle/waibao/XY/Eff_Fishing_xiaoyushuihua.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f91889294c9726d4b88fb5cddff26fad
+    m_Address: Prefabs/Particle/waibao/XY/Eff_Fishing_zhongyushuihua.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9f0adaa6c8d211045b7d3ca7ae65cbf0
+    m_Address: Prefabs/Particle/waibao/UI/Eff_UI_jingyantiaojihuo.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ff865d057fd27984caa25c7ba9615296
+    m_Address: Prefabs/Particle/waibao/UI/Eff_UI_piaoliubaoxiang.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 21da4b6271609db41b779b2e31689159
+    m_Address: Prefabs/Particle/waibao/UI/Eff_UI_shouyibaodian.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0e94ab226e9061849878caab9b747b33
+    m_Address: Prefabs/Particle/waibao/UI/Eff_UI_shouyituowei.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9a99f106a9e5f8d449bd77b224b5b18f
+    m_Address: Prefabs/Particle/waibao/UI/Eff_UI_waibiankuang.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4481af2c773fd0c45b9aeeb8ea545447
+    m_Address: Prefabs/Particle/waibao/UI/Eff_UI_yulaihuitiaoyue.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c506ce471206f0c4cacf99781b34b31c
+    m_Address: Prefabs/Particle/waibao/UI/Eff_UI_yushengjie_baodian.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5489097c626f5314bbe93702a9c8efc6
+    m_Address: Prefabs/Particle/waibao/UI/Eff_UI_yushengjie_suduxian.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 89f0c626739388d4b930af32622524cc
+    m_Address: Prefabs/Particle/waibao/XY/Eff_Aquarium_dengta.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7254a7bb976bf0c47aab38a249395e54
+    m_Address: Prefabs/Particle/waibao/XY/Eff_Aquarium_guang.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 25a32edba22d0184996ab6183b9f3bee
+    m_Address: Prefabs/Particle/waibao/XY/Eff_Aquarium_jiguang.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bd73d9aee94a44d4eb1d2f48e1fe3232
+    m_Address: Prefabs/Particle/waibao/XY/Eff_Aquarium_paoji.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8ad39b67bb275d54688d1a2d1b3a1b00
+    m_Address: Prefabs/Particle/waibao/XY/Eff_Aquarium_pubu 1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2ec3a1d8db3be0e4999b18f36094c6ee
+    m_Address: Prefabs/Particle/waibao/XY/Eff_Aquarium_pubu 2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 21d9c28ad11accc47918bf58f7bee478
+    m_Address: Prefabs/Particle/waibao/XY/Eff_Aquarium_pubu.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f1123087c3ce1324d8c3841b6a231f0b
+    m_Address: Prefabs/Particle/waibao/XY/Eff_Aquarium_qipao.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5bd9daaf4ff721e47a34181da6fbece9
+    m_Address: Prefabs/Particle/waibao/XY/Eff_Aquarium_shacheng.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 778ec00d8a7131948980853eb42b7629
+    m_Address: Prefabs/Particle/waibao/XY/Eff_Fishing_chonglang.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 783e236549f5e6642a3bd1c8837f06fd
+    m_Address: Prefabs/Particle/waibao/XY/Eff_Fishing_jingyupenshui.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 44ad4628e58efd84d86929b79b6b6a51
+    m_Address: Prefabs/Particle/waibao/XY/Eff_Fishing_suduxian.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 90896d0e12071e442865148db83686c9
+    m_Address: Prefabs/Particle/waibao/XY/Eff_Fishing_tuodongshuihua.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 99ff403886c39584898cf70bbee64387
+    m_Address: Prefabs/Particle/waibao/XY/Eff_Fishing_xiaxue.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 52258d6567437c64bb4f59a7a089a739
+    m_Address: Prefabs/Particle/waibao/XY/Eff_Fishing_xuekuailuoshui.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0195f9df2ea368f4dbf886db707bda1a
+    m_Address: Prefabs/Particle/waibao/XY/Eff_Fishing_yudaji.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1e10c5d3a69cf9d4490137323aa5ab5a
+    m_Address: Prefabs/Particle/waibao/XY/Eff_Fishing_yugoushuihua.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dfdd1522d57fa204dab257f62ac99601
+    m_Address: Prefabs/Particle/waibao/XY/Eff_Fishing_yushuaishui.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b2ee9a98f53713a4e8440c1f2ffa83f4
+    m_Address: Prefabs/Particle/waibao/XY/pao (1).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 4af7547d536484e4f99eb62750de4ff3, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 0dfcc9fd66b9c8c4eaddf4590a526b2f, type: 2}
+    - {fileID: 11400000, guid: b00bd9088215f37428bd7ce6886c69a8, type: 2}

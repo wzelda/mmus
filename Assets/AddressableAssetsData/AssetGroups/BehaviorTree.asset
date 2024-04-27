@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: BehaviorTree
+  m_EditorClassIdentifier: 
+  m_GroupName: BehaviorTree
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 2d6b4ae82b92a9b448f6b89948364381
+  m_SerializeEntries:
+  - m_GUID: efd6fb49872829b45a9bad14b75bfcf6
+    m_Address: BehaviorTree/FishSwim.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 4af7547d536484e4f99eb62750de4ff3, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 2cbc580889f5d1e4295a7757a19cacba, type: 2}
+    - {fileID: 11400000, guid: 43a93b15a8caad441b2753be11be1c9c, type: 2}

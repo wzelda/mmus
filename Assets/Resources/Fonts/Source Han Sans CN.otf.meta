@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: a96ab6c345768ce4fbeeda6710644140
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 0
+  fontName: Source Han Sans CN
+  fontNames:
+  - Source Han Sans CN
+  - Noto Sans CJK SC
+  - Noto Sans SC
+  - PingFang SC
+  - Microsoft YaHei
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
