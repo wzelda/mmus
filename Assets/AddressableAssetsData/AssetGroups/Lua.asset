@@ -22,951 +22,1141 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 5515c0c4854e9b647b8a027fa4c15b46
     m_Address: Lua/Common/CommonUIUtils.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ecad18d492243554c9c226a79689ed9f
     m_Address: Lua/Common/CompassUtils.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 5531473842f3cb64f87a553512d3096a
     m_Address: Lua/Common/ConstantValue.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: df4396e6f4d27634b9fee77bd30ac17f
     m_Address: Lua/Common/GameEnum.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 78505500feea1da46a7be31874e7ee46
     m_Address: Lua/Common/GlobalModules.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 1f574360ae8f3524a87626d66691c6a2
     m_Address: Lua/Common/GyroUtils.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4893b49b7a0ecbe47bd31a58cbcf27a9
     m_Address: Lua/UI/Story/StoryPanel.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9fbcf6f0831729944b438dbb4bacc8ad
     m_Address: Lua/Common/LocalValue.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ad0913eead77e084eacdec64f6f85b6b
     m_Address: Lua/Common/LuaClass.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8828c4f9d846f164fa739fa2be9d34ad
     m_Address: Lua/Common/LuaFind.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 51fbf33a4b91e9841aebc117b5aa5d6f
     m_Address: Lua/Common/LuaPackage.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 64673d7a1ed9bdd469ac72d58189796d
     m_Address: Lua/Common/MemberUtils.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: bbfdc8d914ef1f04c99df7331cd148b7
     m_Address: Lua/Common/MemoryReferenceInfo.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: fa735a087cd1be645a14de0ce59468df
     m_Address: Lua/Common/NumberTranslatorTool.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b61657f2746078044b90efeae6652ca8
     m_Address: Lua/Common/UnityUtils.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2377877acb4d7014ba11215f3e7a543e
     m_Address: Lua/Common/Utils.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 10cc1bfdeda02744a9836ff24d7c774a
     m_Address: Lua/Common/VersionCfg.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e435ed1bd03b5d94ca9fc7fc0f872c1c
     m_Address: Lua/Common/XCoroutine.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 33c9148b70a2d8445a178d12bed22f24
     m_Address: Lua/Common/XUtils.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9b9ca7768aed7e24f8c7dbcaecd97e49
     m_Address: Lua/GlobalManager.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8345a1253d7eefd4897615183329bb5c
     m_Address: Lua/Config/AchievementConfig.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 1bd8ac0edae373449b2866b30e1c8bb9
     m_Address: Lua/Config/AudioConfig.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 819c88eb83490ae439843b89472a5067
     m_Address: Lua/Config/BufferConfig.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4ecd8a12b6733954087f943b3bf8f71b
     m_Address: Lua/Config/ClassConfig.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 0ee3452e0f81fb248846c5ba207922f0
     m_Address: Lua/Config/ConfigData.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2d06514049e3a144aacd6a5753522094
     m_Address: Lua/Config/Configs.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9053959e5a598a042ba3d184fec614c8
     m_Address: Lua/Config/ConstValuesConfig.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 315967a67b6f2af4989f010457673644
     m_Address: Lua/UI/Guide/GuideLayer.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 337960c1d20c66c4cb87dd48d9436861
     m_Address: Lua/Config/DevicesInfoConfig.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 3c4cfc0cf6082714e8b7fa8a84bd4e66
     m_Address: Lua/Manager/CommonUIObjectManager.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 6da4390160881224381b86dd03519c12
     m_Address: Lua/Config/SeaConfig.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: d82086a29e712ba40a3e2a0eb0b70a6f
     m_Address: Lua/Guide/GuideManager.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 5138d88a015c8e04db6659e8aad5f755
     m_Address: Lua/Config/Guide/tutorial_process_FirstEquip.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c91c9dcece9ec804d9660b29e2259303
     m_Address: Lua/UI/Achievement/AchieveTitleUI.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 334d69138dc28fd4a82c578bbfab2996
     m_Address: Lua/Data/AchievementData.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 0f08e81c2baf7fb4d9c3fcf3f4743e00
     m_Address: Lua/Data/AdvData.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: eadb750baf0ce4eae9b4623129aa09c1
     m_Address: Lua/Event/Event.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: d3eea74276d6c52499ede6893ed17bbb
     m_Address: Lua/Data/BufferData.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e940f33976290ea40ba094de21622a21
     m_Address: Lua/Data/DecorationData.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2376e9e4ea1831845b797a69ad1c0496
     m_Address: Lua/Data/FunctionOpenData.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4c00f13e30aa33a4797ed9001a6197e0
     m_Address: Lua/Data/SeaData.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: adbff763679c0f04090ea934836dd765
     m_Address: Lua/Data/PlayerData.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: eb8649d62696b9f46ab1a7b8821c7a37
     m_Address: Lua/Data/TaskData.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 62544279f53b18948bc4240d0703528b
     m_Address: Lua/Event/EventData.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7b622ba514e424e40b7b9a767b863596
     m_Address: Lua/Event/EventDispatcher.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 958bad15f83de9940ae7aacd2a092c8b
     m_Address: Lua/FishAI/BehaviorTree/BaseBehaviorTask.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 66afb85eaf3ba144581e9f273ab48628
     m_Address: Lua/FishAI/BehaviorTree/BehaviorDefine.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 3fdf941443c0647488665cbcc2a757e8
     m_Address: Lua/FishAI/BehaviorTree/BehaviorTaskFactory.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 178233021b49377408af154f9dddfea8
     m_Address: Lua/Guide/GuideFirstEquip.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: d2faa8fe467528448a80ead48b319810
     m_Address: Lua/Guide/WeakGuideManager.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 28a6bf384ae08cf4a8791f9dd97a576b
     m_Address: Lua/LevelLogic/LevelLogic.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 1494b1582be7e10478ced98a5af399f2
     m_Address: Lua/Config/PlayerDisplayConfig.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 1f1513cead9c6e346806af75d33ee3ef
     m_Address: Lua/lib/deferred.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 0c81a6f21000000007a1a6f210000000
     m_Address: Lua/lib/lua53_traits.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 09f5ba74ffe54db40af3758a248a4d3d
     m_Address: Lua/lib/LuaPanda.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: d00334ee7cdbe4d4291181088fb2964e
     m_Address: Lua/lib/protobuf.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 46e141ac56e59ce43a207e10ce4355cc
     m_Address: Lua/lib/serpent.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e1715cf96a2e6134786e6d57ae40de84
     m_Address: Lua/Manager/AdsManager.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 417faa8a2b8dd3b44920c99b24968fd8
     m_Address: Lua/Manager/AudioManager.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ebcb2ee507cd3204dad7b536c7b1eaa6
     m_Address: Lua/Manager/CompulsiveGuideManager.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 36823bc142903134e99b406e4b490f63
     m_Address: Lua/Manager/DependManager.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 65bc25abd134ac4499423c509c3e6394
     m_Address: Lua/Manager/FilterWordManager.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8993cdf96fe54ad41a1b39aee07b82d5
     m_Address: Lua/Manager/GameObjectManager.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 54cbe7a6866ef7446bcb4e2da84f2698
     m_Address: Lua/Manager/HotUpdateMgr.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 818be4d966758d94fa65e94ab01118cc
     m_Address: Lua/Manager/LevelManager.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 335e66e0b1dcd7540bd1542ebec44b21
     m_Address: Lua/Manager/LevelMgrUtil.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: bc9266f3d0b676a4aaba304761678b05
     m_Address: Lua/Manager/LocalizationMgr.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 267e456c69c5f9b4d905f6171f4674fd
     m_Address: Lua/Manager/NetworkManager.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 01e517459fb0a78478306918ff7e65b1
     m_Address: Lua/Manager/QualityMgr.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 969aa4c14406f0e4494e810e028737d9
     m_Address: Lua/Manager/ReddotManger.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: eeb23d067e844424b8f858061f8de4f6
     m_Address: Lua/Manager/SDKManager.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e40b51d14caaab641a39d5e9177e6168
     m_Address: Lua/Manager/TimerManager.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 64be721a363e6c247a71d4b06428e49c
     m_Address: Lua/Manager/UIManager.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 121db753779eefe44b63e581bf3e5cd0
     m_Address: Lua/Manager/VideoMgr.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 29302c1f070bf4f4d91b3df7621df485
     m_Address: Lua/Net/NetHandle.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 278ff1b0429c5564397e3c8470287bb0
     m_Address: Lua/perf/memory.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8cc5867da8bc401469e65882b8ba5931
     m_Address: Lua/perf/profiler.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c261c087f788f534ab4bb1b64ef38417
     m_Address: Lua/Timer/DelayToDo.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 195a73719a1e90e42b8724d48570baa8
     m_Address: Lua/Timer/IntervalToDo.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a9e1910b7c9beac498b33c061b7a8618
     m_Address: Lua/Timer/Timer.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7ac9be6040839f04fbe0e207c64b44b1
     m_Address: Lua/UI/Achievement/AchieveAwardTitleUI.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: d351547166c1a2e4b82fd1d00459ab62
     m_Address: Lua/UI/Achievement/AchievementTab.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: fe0089c840ec48546a992eca13d840be
     m_Address: Lua/UI/Aquarium/AquariumSelectPanel.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: cd50b579cfc87d8468a7c1b91c9192d1
     m_Address: Lua/UI/Core/FairyGUI.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: da8c53399e53c11448fa7beba387a742
     m_Address: Lua/UI/Core/PanelFactory.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c8044f4cb36fd74408fc4d25c22ba46e
     m_Address: Lua/UI/Core/UIConfig.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 467502ccf3efb3245a649a6507d9d81e
     m_Address: Lua/UI/Earth/OceanAeraUI.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2bc483744daeaf94b96d15e034e1962d
     m_Address: Lua/UI/FunctionLock/FunctionLockUI.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: edac134a3cbe57a43bb8955981f9e834
     m_Address: Lua/UI/GameSettings/GameSettingsPanel.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 5261f979b6dddbe43b53d235cd6f9a1f
     m_Address: Lua/UI/GMTools/GmOrder.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: dbd62491a415d104d8e689649b3afab1
     m_Address: Lua/UI/HotUpdate/HotUpdate.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 1d3697784347c71418e82f24b788bad2
     m_Address: Lua/Config/GuideStoryConfig.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4427bd586a57f684aa7902543dcbb75a
     m_Address: Lua/UI/Information/InformationPanel.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 1b9c98b237a68dd4c92ecd63e1188e22
     m_Address: Lua/UI/Loading/LoadingUtils.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 91af55b822286f44d9b17c7228fb0ea6
     m_Address: Lua/Config/Guide/tutorial_process_TitleReady.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 15ccf3aa26f85514ba294bd2bf4c6609
     m_Address: Lua/UI/Main/IncomeUI.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8f20326b9054fe340a697b68db3c0135
     m_Address: Lua/UI/Main/MainPanel.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 86cb17ea26722a945af53888c462038c
     m_Address: Lua/UI/OfflineTime/OfflineTimePanel.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e005dd151c13e264684a694e254a3e01
     m_Address: Lua/UI/Photo/PhotoPanel.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 0023bb559d07ea14e925143a7dde1a95
     m_Address: Lua/UI/PlayerInfomation/PlayerInfomation.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2c177507c46cbab4babddb7cfdfe728a
     m_Address: Lua/UI/RankingList/RankingListPanel.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 6eb0c02dd87ddc548840ba5ce9a295c7
     m_Address: Lua/UI/RenameCard/RenameCard.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 1726dfcb3e915a945b597f8db2093485
     m_Address: Lua/UI/SignIn/SignInPanel.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e482b85ecb8b0334d8cb16b240fc333f
     m_Address: Lua/UI/Tools/AmountTools.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 06bfd31d8c845d24b873aca1da6a7a96
     m_Address: Lua/UI/Tools/ClickEffects.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: d18e309621de2c44faa015e555dc1724
     m_Address: Lua/UI/Tools/ConfirmBuyUI.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 542729a8304e25b499287ba69fb5b555
     m_Address: Lua/UI/Tools/Dialog.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b2b73cfb6db790e459236d25a5a1cb73
     m_Address: Lua/UI/Tools/LoginInfo.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7f8c69deaa948a443b8fec03f328bfb9
     m_Address: Lua/UI/Tools/SystemGoToTool.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 58db6be5ba101ef42aa9369613e77273
     m_Address: Lua/UI/Tools/TestBattle.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 0cff1b2ac34ab8340a33d809b932369d
     m_Address: Lua/UI/Tools/Tips.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f990962894082c543912bb41e2f68631
     m_Address: Lua/UI/Tools/TipsTool.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 08283f0a404d7ba419ade71560590b8b
     m_Address: Lua/UI/Tools/TiredPopupUI.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 13eafc8025b1f944aa9737124ceca18a
     m_Address: Lua/UI/Tools/UITopBar.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7671ece6e41863f43a7150012f8411bb
     m_Address: Lua/UI/Tools/Waiting.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 70605e9071ba7e14e81ea1c1fa5e2aff
     m_Address: Lua/UI/Tools/Common/ConfirmPromptUI.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2901650cd68246848a05a8110f8f2a35
     m_Address: Lua/UI/Tools/Common/ShowHeroInUI.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 3c8784f795321794c9a980cd3a2698b0
     m_Address: Lua/UI/Tools/PopupAnim/PopupAnimItem.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e05f48fc28a414d4e95c24f2faee9554
     m_Address: Lua/UI/Tools/PopupAnim/PopupAnimTool.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9dd49a9a5854f64478fb8c737f0f3c68
     m_Address: Lua/UI/ToolsWindow/ItemBuyPanel.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e8085d675c5d4dd47984ac2fa7a39d11
     m_Address: Lua/UI/ToolsWindow/PrizesListPanel.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c76aa9d4dd72da947b8a195170e71e1f
     m_Address: Lua/UI/Task/MainTaskUI.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 10abfc66457128049a95ae2e300bdbe9
     m_Address: Lua/Data/FishShipData.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2f9925cdd82530242b4ef3e183cabb8f
     m_Address: Lua/UI/Tools/ShowFishInfoUI.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a88c576a9a7ac124bbc61ecd32eb8b9b
     m_Address: Lua/Config/Guide/tutorial_process_LevelupFish.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2c128c4ffc394ee40933eaa92eb9c099
     m_Address: Lua/Config/Guide/tutorial_process_ImproveReady.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 3e40ddb7c3a10d045b9137baea45180c
     m_Address: Lua/Config/Guide/tutorial_process_HawaiiReady.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 51bda97906e22804ea5e31956e7cd70e
     m_Address: Lua/Config/Guide/tutorial_process_HallAquarReady.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 55701ba01f0380a4997d04c90168358b
     m_Address: Lua/Config/Guide/tutorial_process_GrabMaintask.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b353ddf0334f30540a75db0c5b615f49
     m_Address: Lua/Config/Guide/tutorial_process_FirstGame.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 264865346b78e7443917d6314aa428a2
     m_Address: Lua/Config/Guide/tutorial_process_FirstFish.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 255c3885e2dd4b14e97e51ab738f5c52
     m_Address: Lua/Config/Guide/tutorial_process_ChallengeFish.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e487bb3f350deb44998e3f7571ba8f1b
     m_Address: Lua/Config/Guide/tutorial_process_AquariumReady.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: fe7e1691ee79e9d4897e72ef2cb73be7
     m_Address: Lua/Config/Guide/tutorial_condition.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 81b0e40dd15ee4e4697d69f4ad6bc930
     m_Address: Lua/Config/Guide/tutorial_cfg.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ec45787642dd97d47bede5fc2b116832
     m_Address: Lua/UI/Earth/EarthUI.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: adb267b1c1edf4b41801bf694caa324c
     m_Address: Lua/UI/Main/FishGrowthUI.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 21cd698a559456d4d895ea3d15c259ea
     m_Address: Lua/UI/ShipFish/ShipFish.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7718176d3a2a01744afe92faf342f9a6
     m_Address: Lua/Common/InitModules.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a340d9c3058a56a4bab1929896221c76
     m_Address: Lua/Config/Guide/tutorial_process_Welcome.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 529d4d92cee795c40a43180f13c663f4
     m_Address: Lua/UI/Improve/ImproveBreakUI.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c2bba5d13180536428b56613b5e7394e
     m_Address: Lua/Config/Guide/tutorial_process_UnlockseaMainTask.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: da729c36c00f3f24aa0927f324257f19
     m_Address: Lua/Common/UIUtils.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 1ea4081e3b0b28d4493e00986f1a34e7
     m_Address: Lua/Config/AdminConfig.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e3792282e9cd4174eb27ff282fc5ebaa
     m_Address: Lua/Config/AquariumConfig.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7c7543fce152e994486d386b091816b9
     m_Address: Lua/Config/DecorationConfig.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: da25f58cc1820ef41a22c3a1e670c339
     m_Address: Lua/Config/DependsConfig.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b145d8774fb689e45bbdabf20261fa84
     m_Address: Lua/Config/FishConfig.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7267358a22a0d724abe7df90807cbb18
     m_Address: Lua/Config/FunctionOpenConfig.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: eeae6f2408c11ae4994821e1f9132cf0
     m_Address: Lua/Config/Guide/tutorial_process_AquarMultiple.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 306d8973ba80b4003a51524299ba59a7
     m_Address: Lua/Config/Localization/CN.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: d62b1002c0f964442a46310404027777
     m_Address: Lua/Config/Localization/ENG.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 19132a93029102149b027a250ce05bf1
     m_Address: Lua/Config/MainTaskConfig.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 90d337b773c00d944900936b1c7b8237
     m_Address: Lua/Config/MiscConfig.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 201e4b83416247e48b4a298a9f7b0620
     m_Address: Lua/Config/TaskConfig.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 285ed1b75fa7db1428b5312c85b806f5
     m_Address: Lua/Data/AdminData.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 91e9a627726954f41ba593f9f1d0bcd2
     m_Address: Lua/Data/AquariumData.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 0c21ff680e5c8ba47a6f8cf3124191f7
     m_Address: Lua/Data/FishData.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8a466d3e43e88864ab5ee94bdecaa15b
     m_Address: Lua/LevelLogic/AquariumLevelLogic.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f0a72a6983e9ad4449cf17d31420867b
     m_Address: Lua/LevelLogic/FishingLevelLogic.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b2bb83864f8808c4ebf3aa119049c935
     m_Address: Lua/LevelLogic/StartLevelLogic.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 594425aff5ffc16468e59d47f0cf0988
     m_Address: Lua/Manager/AnalyticsManager.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 3264309499d98d140b04596ae888e1d4
     m_Address: Lua/socket/url.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: aa94b9740059a5044961612781d20566
     m_Address: Lua/UI/FishFight/FishFightUI.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: eeba2f529787db94eae821d9e03028ff
     m_Address: Lua/UI/Improve/ImproveTab.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 18d27aac07b0cfc49a7026b25e6afb37
     m_Address: Lua/UI/Loading/LoadingPanel.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9073c22544aad4448aa921b9df3bb769
     m_Address: Lua/UI/Main/AquariumShowList.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b741270e1b60db148bf88cf0d80280a8
     m_Address: Lua/UI/Main/FishList.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 30a995e0f30e15148bbded7e89dc5598
     m_Address: Lua/UI/Main/MainBottomUI.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: cacf7e98ab1e8bd4a8040716e17cb49e
     m_Address: Lua/UI/Main/MainTopUI.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: d9bc0670188f9ce4384948cd6d1d1c86
     m_Address: Lua/UI/ShipTreasure/ShipTreasureUI.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 519b0c57fabd34f4da4991cd08f4befe
     m_Address: Lua/UI/Tools/ItemPopUI.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c6621424c251106429e3ac1ce730edd0
     m_Address: Lua/UI/Tools/PopupUI.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9b8f5e52678ba474aa06f77e71a2aeaa
     m_Address: Lua/Config/ENG/AchievementConfig.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c301aa425a9b7784180125f3732e1977
     m_Address: Lua/Config/ENG/AdminConfig.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b68564791e3d77946a8134eefec52ec9
     m_Address: Lua/Config/ENG/AquariumConfig.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: d9546def80524a24f8e31b7222330883
     m_Address: Lua/Config/ENG/AudioConfig.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: d5367258f3fa0b845838f317f313a5dd
     m_Address: Lua/Config/ENG/BufferConfig.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 0dc4ee6846841794baa37cf6a2df9137
     m_Address: Lua/Config/ENG/ConstValuesConfig.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9a0c6793242a5884eab2db68e5eae1e6
     m_Address: Lua/Config/ENG/DecorationConfig.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2addff532302ebd4ab6b64aebd9227b9
     m_Address: Lua/Config/ENG/DependsConfig.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2ab9f236929dd0b459ac8b156729129d
     m_Address: Lua/Config/ENG/FishConfig.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 043754e877baea942a83598ccbe34475
     m_Address: Lua/Config/ENG/FunctionOpenConfig.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 744239fd699c85d4c96850e247638000
     m_Address: Lua/Config/ENG/GuideStoryConfig.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9e7fe936910b4574683aa1786e746e27
     m_Address: Lua/Config/ENG/MainTaskConfig.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: fcc2d3efcf8e2b045b59d0d0f3bbf309
     m_Address: Lua/Config/ENG/MiscConfig.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 86fee2042a95b6544a767b15c965007b
     m_Address: Lua/Config/ENG/PlayerDisplayConfig.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 10785c618dfac8241810fe047b441a4f
     m_Address: Lua/Config/ENG/SeaConfig.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 379b9cf70b6c24e4483eaf436da11221
     m_Address: Lua/Config/ENG/TaskConfig.lua
     m_ReadOnly: 0
     m_SerializedLabels:
     - Lua
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 4af7547d536484e4f99eb62750de4ff3, type: 2}
   m_SchemaSet:

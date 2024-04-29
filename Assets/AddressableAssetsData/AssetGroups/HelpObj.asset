@@ -21,14 +21,17 @@ MonoBehaviour:
     m_Address: Prefabs/FishHelp/Box_01.prefab
     m_ReadOnly: 0
     m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c74898576c1dfe846a375f938077c176
     m_Address: Prefabs/FishHelp/Rod@skin.prefab
     m_ReadOnly: 0
     m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9e19e38d9bfec8344beffe72cc75a04a
     m_Address: Prefabs/FishHelp/RodStartObj.prefab
     m_ReadOnly: 0
     m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 4af7547d536484e4f99eb62750de4ff3, type: 2}
   m_SchemaSet:

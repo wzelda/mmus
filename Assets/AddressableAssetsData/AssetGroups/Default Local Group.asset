@@ -21,18 +21,22 @@ MonoBehaviour:
     m_Address: Assets/AddressableResources/Shaders/CityWaterShadow/NoFogNoAmbientUnlit_VertexCol.shader
     m_ReadOnly: 0
     m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2d0831d731f36194d82d363fb56a1b4e
     m_Address: Assets/AddressableResources/Shaders/cgwell Add Mask.shader
     m_ReadOnly: 0
     m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ac30519c8c26c154ebc6304ffb86b87c
     m_Address: Assets/AddressableResources/Shaders/CityWaterShadow/NoFogNoAmbientUnlit.shader
     m_ReadOnly: 0
     m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ecebee46c6525b94793631526eec3a2c
     m_Address: Assets/AddressableResources/Shaders/Displacement_Map_Add_2.shader
     m_ReadOnly: 0
     m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 4af7547d536484e4f99eb62750de4ff3, type: 2}
   m_SchemaSet:

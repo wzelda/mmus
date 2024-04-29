@@ -21,6 +21,7 @@ MonoBehaviour:
     m_Address: BehaviorTree/FishSwim.asset
     m_ReadOnly: 0
     m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 4af7547d536484e4f99eb62750de4ff3, type: 2}
   m_SchemaSet:

@@ -21,26 +21,32 @@ MonoBehaviour:
     m_Address: Assets/Scenes/Aquariums/Alaska_Aquarium.unity
     m_ReadOnly: 0
     m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 45f275ad6ad282b45bfe126c8c1064bc
     m_Address: Assets/Scenes/Aquariums/Caribbean_Aquarium.unity
     m_ReadOnly: 0
     m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: cf80b26fd1c4f9d4192dc70f1cd6c65e
     m_Address: Assets/Scenes/Aquariums/Hawaii_Aquarium.unity
     m_ReadOnly: 0
     m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ec9d744892e7fe542965bf53f99adc05
     m_Address: Assets/Scenes/FishingSeas/Alaska_Fishing.unity
     m_ReadOnly: 0
     m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f5ec47179cbcc7e47828c99c386c0069
     m_Address: Assets/Scenes/FishingSeas/Caribbean_Fishing.unity
     m_ReadOnly: 0
     m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 99c44721ffa9c9e48852e184c22bfd51
     m_Address: Assets/Scenes/FishingSeas/Hawaii_Fishing.unity
     m_ReadOnly: 0
     m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 4af7547d536484e4f99eb62750de4ff3, type: 2}
   m_SchemaSet:
