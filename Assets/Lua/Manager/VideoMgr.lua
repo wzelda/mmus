@@ -10,19 +10,19 @@ VideoMgr.LabelCfg = nil
 
 
 local function OnStartVideo()    
-    EventDispatcher:Dispatch(Event.VIDEO_START)
+    -- EventDispatcher:Dispatch(Event.VIDEO_START)
     --print("Video Start")
 end
 
-local function OnVideoPlay(frameid)
+local function OnVideoPlay()
 
     --print("Video Play ID "..tostring(frameid))
-    EventDispatcher:Dispatch(Event.VIDEO_UPDATE,frameid)
+    -- EventDispatcher:Dispatch(Event.VIDEO_UPDATE,frameid)
 end
 
 local function OnVideoEnd()    
     
-    EventDispatcher:Dispatch(Event.VIDEO_END)
+    -- EventDispatcher:Dispatch(Event.VIDEO_END)
     
     VideoMgr.SkipCfg = nil
     VideoMgr.LabelCfg = nil
@@ -41,14 +41,10 @@ local function OnVideoEnd()
 
     end
 
-
 end
-
 
 function VideoMgr.Initialize()
     
-    CS.LPCFramework.VideoCtrl.Instance:Initialize()
-
     CS.LPCFramework.VideoCtrl.Instance.OnVideoBegin = OnStartVideo
     CS.LPCFramework.VideoCtrl.Instance.OnVideoPlay = OnVideoPlay
     CS.LPCFramework.VideoCtrl.Instance.OnVideoEnd = OnVideoEnd
@@ -63,13 +59,13 @@ function VideoMgr.Play(vname)
 
     VideoMgr.PlayVideoName = vname
 
-    VideoMgr.SkipCfgName = string.format("Config.%sConfig",vname)
-    VideoMgr.LabelCfgName = string.format("Config.%sLabelConfig",vname)
+    -- VideoMgr.SkipCfgName = string.format("Config.%sConfig",vname)
+    -- VideoMgr.LabelCfgName = string.format("Config.%sLabelConfig",vname)
 
-    VideoMgr.SkipCfg = LuaPackage.Load(VideoMgr.SkipCfgName)
-    VideoMgr.LabelCfg = LuaPackage.Load(VideoMgr.LabelCfgName)
+    -- VideoMgr.SkipCfg = LuaPackage.Load(VideoMgr.SkipCfgName)
+    -- VideoMgr.LabelCfg = LuaPackage.Load(VideoMgr.LabelCfgName)
 
-    UIManager.OpenUI(UIInfo.VideoPanel)
+    -- UIManager.OpenUI(UIInfo.VideoPanel)
     CS.LPCFramework.VideoCtrl.Instance:PlayVideo(vname)
     
 end

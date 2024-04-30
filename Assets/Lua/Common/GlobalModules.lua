@@ -55,6 +55,7 @@ function GlobalModule.LoadModule()
     UIConfig = require "UI.Core.UIConfig"
     LocalizationMgr = require "Manager.LocalizationMgr"
     AudioManager = require "Manager.AudioManager"
+    VideoMgr = require "Manager.VideoMgr"
     UIManager = require "Manager.UIManager"
     CommonUIObjectManager = require "Manager.CommonUIObjectManager"
     VideoMgr = require "Manager.VideoMgr"
@@ -72,6 +73,7 @@ function GlobalModule.LoadModule()
     ConstantValue.initialize()
     UIManager.initialize()
     AudioManager.initialize()
+    VideoMgr.Initialize()
 
     if GameObjectManager == nil then
         GameObjectManager = (require "Manager.GameObjectManager").new()

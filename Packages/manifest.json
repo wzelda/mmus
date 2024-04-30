@@ -3,7 +3,7 @@
     "com.leancloud.realtime": "https://github.com/leancloud/csharp-sdk-upm.git#realtime-0.10.14",
     "com.leancloud.storage": "https://github.com/leancloud/csharp-sdk-upm.git#storage-0.10.14",
     "com.unity.2d.sprite": "1.0.0",
-    "com.unity.addressables": "1.20.0",
+    "com.unity.addressables": "1.20.5",
     "com.unity.assetgraph": "1.7.2-preview",
     "com.unity.burst": "1.7.4",
     "com.unity.ide.rider": "3.0.21",

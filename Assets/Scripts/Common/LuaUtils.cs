@@ -9,6 +9,7 @@ using System.Net;
 using System.Runtime.Serialization;
 using System.Runtime.Serialization.Formatters.Binary;
 using System.Text;
+using System.Text.RegularExpressions;
 using BestHTTP.Extensions;
 using DG.Tweening;
 using FairyGUI;
@@ -1063,6 +1064,12 @@ namespace LPCFramework {
         {
             bytes = FileUtils.RC4(bytes, "1234");
             File.WriteAllBytes(Path.Combine(Application.persistentDataPath, filename), bytes);
+        }
+
+        public static bool IsUrl(string url)
+        {
+            var rg = new Regex("(https?|ftp|file)://[-A-Za-z0-9+&@#/%?=~_|!:,.;]+[-A-Za-z0-9+&@#/%=~_|]");
+            return rg.IsMatch(url);
         }
     }
 

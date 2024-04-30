@@ -30,7 +30,7 @@ MonoBehaviour:
       buttonRect:
         serializedVersion: 2
         x: 117
-        y: 33.5
+        y: 33
         width: 10
         height: 23
   - m_name: Split By Filter
@@ -49,7 +49,7 @@ MonoBehaviour:
       buttonRect:
         serializedVersion: 2
         x: 0
-        y: 30.5
+        y: 30
         width: 21
         height: 29
     m_outputPoints:
@@ -60,7 +60,7 @@ MonoBehaviour:
       buttonRect:
         serializedVersion: 2
         x: 117
-        y: 33.5
+        y: 33
         width: 10
         height: 23
   - m_name: Overwrite Import Settings
@@ -79,7 +79,7 @@ MonoBehaviour:
       buttonRect:
         serializedVersion: 2
         x: 0
-        y: 30.5
+        y: 30
         width: 21
         height: 29
     m_outputPoints:
@@ -90,7 +90,7 @@ MonoBehaviour:
       buttonRect:
         serializedVersion: 2
         x: 185
-        y: 33.5
+        y: 33
         width: 10
         height: 23
   m_allConnections:
